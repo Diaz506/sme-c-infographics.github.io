@@ -3,18 +3,23 @@
     "displayName": "Azure Databases",
     "items": [
       {
-        "file": "sql-2016-eol-customer-guide.html",
-        "title": "SQL Server 2016 End of Support — Your Complete Guide"
-      },
-      {
         "file": "azure-sql-comparison.html",
         "title": "Azure SQL Decision Guide"
+      },
+      {
+        "file": "sql-2016-eol-customer-guide.html",
+        "title": "SQL Server 2016 End of Support — Your Complete Guide"
       }
     ]
   },
   "fabric": {
     "displayName": "Fabric",
-    "items": []
+    "items": [
+      {
+        "file": "microsoft-fabric-interactive.html",
+        "title": "Microsoft Fabric — Unified Analytics Platform"
+      }
+    ]
   },
   "foundry": {
     "displayName": "Foundry",
