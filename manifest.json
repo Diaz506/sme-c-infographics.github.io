@@ -16,6 +16,10 @@
     "displayName": "Fabric",
     "items": [
       {
+        "file": "fabric-data-agent-best-practices.html",
+        "title": "Fabric Data Agent — Modeling Best Practices"
+      },
+      {
         "file": "microsoft-fabric-interactive.html",
         "title": "Microsoft Fabric — Unified Analytics Platform"
       }
